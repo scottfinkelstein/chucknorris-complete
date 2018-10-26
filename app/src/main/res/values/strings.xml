@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chuck Norris Facts</string>
+    <string name="chuck_norris">Chuck Norris</string>
+    <string name="random_fact_text">Get Random Fact</string>
+</resources>
